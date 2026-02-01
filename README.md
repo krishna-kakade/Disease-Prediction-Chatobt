@@ -13,6 +13,7 @@ The project aims to improve early disease awareness and assist users in making i
 
 ## Technologies Used
 - **Python**
+- **Java**
 - **Machine Learning**
 - **Natural Language Processing (basic)**
 - **Libraries:** NumPy, Pandas, Scikit-learn
