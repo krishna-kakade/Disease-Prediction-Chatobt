@@ -33,7 +33,7 @@ The project aims to improve early disease awareness and assist users in making i
 
 ## Installation & Execution
 1. Clone the repository:
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/krishna-kakade/REPO_NAME.git
    
 3. Navigate to the project directory:
 cd REPO_NAME
